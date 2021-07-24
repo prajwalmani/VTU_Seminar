@@ -1,5 +1,5 @@
 # VTU Seminar 
-![totalseminartopics](https://img.shields.io/badge/Total%20Semianr%20Topics%20-24-orange)
+![totalseminartopics](https://img.shields.io/badge/Total%20Semianr%20Topics%20-25-orange)
 
 ## Hey, this repo is like a collection repo for all those VTU Technical Seminars 
 ## Even if you are not from VTU its ok you can contribute for this repo until its some kind of tecnical seminar related.
